@@ -1,0 +1,169 @@
+# Dolibarr language file - en_US - Accounting Expert
+ACCOUNTING_EXPORT_SEPARATORCSV=Separator kolona datoteke za izvoz
+ACCOUNTING_EXPORT_DATE=Format datuma datoteke za izvoz
+ACCOUNTING_EXPORT_PIECE=Izvezi broj delova
+ACCOUNTING_EXPORT_GLOBAL_ACCOUNT=Izvoz sa globalnim računom
+ACCOUNTING_EXPORT_LABEL=Export label
+ACCOUNTING_EXPORT_AMOUNT=Export amount
+ACCOUNTING_EXPORT_DEVISE=Export currency
+Selectformat=Odaberi format datoteke
+ACCOUNTING_EXPORT_PREFIX_SPEC=Naznači prefix datoteci
+
+ConfigAccountingExpert=Konfigurisanje mogula računovodstveni ekspert
+Journaux=Izveštaji
+JournalFinancial=Finansijski izveštaji
+BackToChartofaccounts=Vrati tabelu računa
+
+Selectchartofaccounts=Izaberi tabelu računa
+Addanaccount=Dodaj računovodstveni nalog
+AccountAccounting=Računovodstveni nalog
+AccountAccountingShort=Account
+AccountAccountingSuggest=Predlog računovodstvenog naloga
+Ventilation=Presek
+
+MenuAccountancy=Računovodstvo
+CustomersVentilation=Presek kupaca
+SuppliersVentilation=Presek dobavljača
+Reports=Izveštaji
+NewAccount=Novi računovodstveni nalog
+Create=Kreiraj
+CreateMvts=Kreiraj promet
+UpdateMvts=Izmena prometa
+WriteBookKeeping=Snimanje računa u glavnoj knjizi
+Bookkeeping=Glavna knjiga
+AccountBalance=Stanje računa
+
+CAHTF=Ukupna nabavka bez PDV-a
+InvoiceLines=Linije faktura za kontrolu
+InvoiceLinesDone=Kontrolisane linije faktura
+IntoAccount=Kontrolisati u računovodstvenom nalogu
+
+Ventilate=Kontroliši
+
+Processing=Obrada
+EndProcessing=Kraj obrade
+AnyLineVentilate=Bilo koja linija za kontrolu
+SelectedLines=Izabrane linije
+Lineofinvoice=Linija faktura
+VentilatedinAccount=Uspešno prekontrolisano uračunovdstvenom nalogu
+NotVentilatedinAccount=Nije prekontrolisano u računovodstvenom nalogu
+
+ACCOUNTING_LIMIT_LIST_VENTILATION=Broj elemenata predviđeni za presek po strani (maksimalno preporučeno: 50)
+ACCOUNTING_LIST_SORT_VENTILATION_TODO=Započni sortiranje stranica za presek "Predvidjeno za presek" na osnovu najnovijih elemenata
+ACCOUNTING_LIST_SORT_VENTILATION_DONE=Započni sortiranje stranica za presek "Presek" na osnovu najnovijih elemenata
+
+ACCOUNTING_LENGTH_DESCRIPTION=Dužina za prikaz opisa proizvoda i usluga na spisku (Najbolje = 50)
+ACCOUNTING_LENGTH_DESCRIPTION_ACCOUNT=Dužina za prikaz forme opisa naloga proizvoda i usluga na spisku (Najbolje = 50)
+ACCOUNTING_LENGTH_GACCOUNT=Dužina opštih naloga
+ACCOUNTING_LENGTH_AACCOUNT=Dužina računa subjekta
+
+ACCOUNTING_SELL_JOURNAL=Izveštaj prodaje
+ACCOUNTING_PURCHASE_JOURNAL=Izveštaj nabavke
+ACCOUNTING_MISCELLANEOUS_JOURNAL=Ostali izveštaji
+ACCOUNTING_EXPENSEREPORT_JOURNAL=Izveštaj troškova
+ACCOUNTING_SOCIAL_JOURNAL=Izveštaj društvenih aktivnosti
+
+ACCOUNTING_ACCOUNT_TRANSFER_CASH=Račun prometa
+ACCOUNTING_ACCOUNT_SUSPENSE=Račun čekanja
+DONATION_ACCOUNTINGACCOUNT=Account to register donations
+
+ACCOUNTING_PRODUCT_BUY_ACCOUNT=Prodazumevani račuvodstveni nalog za kupljene proizvode (ukoliko nije definisan u tabeli proizvoda)
+ACCOUNTING_PRODUCT_SOLD_ACCOUNT=Podrazumevani računovodstveni nalog za prodate proizvode (ukoliko nije definisan u tabeli proizvoda)
+ACCOUNTING_SERVICE_BUY_ACCOUNT=Podrazumevani računovodstveni nalog za kupljene usluge (ukoliko nije definisan u tabeli usluga)
+ACCOUNTING_SERVICE_SOLD_ACCOUNT=Podrazumevani račuvodstveni nalog za prodate uslugue (ukoliko nije definisan u tabeli usluga)
+
+Doctype=Tip dokumenta
+Docdate=Datum
+Docref=Referenca
+Code_tiers=Treće lice
+Labelcompte=Oznaka računa
+Sens=Sens
+Codejournal=Izveštaj
+NumPiece=Deo broj
+AccountingCategory=Accounting category
+
+NotMatch=Not Set
+
+DeleteMvt=Delete general ledger lines
+DelYear=Year to delete
+DelJournal=Journal to delete
+ConfirmDeleteMvt=This will delete all line of of the general ledger for year and/or from a specifics journal
+
+DelBookKeeping=Obriši evidenciju glavne knjige
+
+DescSellsJournal=Izveštaj prodaje
+DescPurchasesJournal=Izveštaj nabavke
+FinanceJournal=Finansijski izveštaji
+DescFinanceJournal=Finansijski izveštaji uključujući sve vrste uplata preko bankovnog računa
+
+CustomerInvoicePayment=Uplata kupca po fakturi
+
+ThirdPartyAccount=Račun subjekta
+
+NewAccountingMvt=Nov promet
+NumMvts=Broj prometa
+ListeMvts=Lista prometa
+ErrorDebitCredit=Debit i Kredit ne smeju imati vrednost u isto vreme
+
+ReportThirdParty=Izlistaj račune subjekta
+DescThirdPartyReport=Ovde konsultuj listu kupaca i dobavljača i njihove računovodstvene naloge
+
+ListAccounts=Lista računovodstvenih naloga
+
+Pcgtype=Klasa računa
+Pcgsubtype=Pod klasom računa
+Accountparent=Koren računa
+
+DescVentilCustomer=Konsultuj ovde godišnji računovodstveni presek faktura kupaca
+TotalVente=Ukupni obrt pre poreza
+TotalMarge=Ukupna prodajna marža
+DescVentilDoneCustomer=Konsultuj ovde listu linija faktura kupaca i njihovih računovodstvenih naloga
+DescVentilTodoCustomer=Prekontroliši linije faktura kupaca sa računovodstvenim nalogom
+ChangeAccount=Izmeni računovodstveni nalog sa linijama odabranim od strane naloga:
+Vide=-
+DescVentilSupplier=Konsultuj ovde godišnju računovdstveni presek predračuna dobavljača
+DescVentilDoneSupplier=Konslutuj ovde listu linija faktura dobavljača i njihovih računovdstvenih naloga
+
+ValidateHistory=Odobri automatski
+
+ErrorAccountancyCodeIsAlreadyUse=Greška, ne možete opbrisati ovaj računovodstveni nalog, jer  je u upotrebi
+MvtNotCorrectlyBalanced=Transakcija nema dobar balans. Credit = %s. Debit = %s
+FicheVentilation=Kartica preseka
+GeneralLedgerIsWritten=Operacije su zapisane u glavnoj knjizi
+
+## Admin
+ApplyMassCategories=Apply mass categories
+
+## Export
+Exports=Izvozi
+Export=Izvoz
+Modelcsv=Model izvoza
+OptionsDeactivatedForThisExportModel=Za ovaj model izvoza, opcije su deaktivirane
+Selectmodelcsv=Izaberite model izvoza
+Modelcsv_normal=Klasičan izvoz
+Modelcsv_CEGID=Export towards CEGID Expert Comptabilité
+Modelcsv_COALA=Export towards Sage Coala
+Modelcsv_bob50=Export towards Sage BOB 50
+Modelcsv_ciel=Export towards Sage Ciel Compta or Compta Evolution
+Modelcsv_quadratus=Export towards Quadratus QuadraCompta
+Modelcsv_ebp=Export towards EBP
+Modelcsv_cogilog=Export towards Cogilog
+
+## Tools - Init accounting account on product / service
+InitAccountancy=Započinjanje računovodstva
+InitAccountancyDesc=Ova stranica se može upotrebiti da inicializuje računovodstveni nalog proizvoda i usluga koji nemaju definisan računovodstveni nalog za prodaju i kupovinu. Proveri pre nego da se podešavanje modula računovodstva završi.
+Options=Opcije
+OptionModeProductSell=Vrsta prodaje
+OptionModeProductBuy=Vrsta kupovine
+OptionModeProductSellDesc=Prikaži sve proizvode bez računovodstvenog naloga definisanog za prodaju.
+OptionModeProductBuyDesc=Prikaži sve proizvode bez računovodstvenog naloga definisanog za kupovinu
+
+## Dictionary
+Range=Opseg knjižnih računa
+Calculated=Calculated
+Formula=Formula
+
+## Error
+ErrorNoAccountingCategoryForThisCountry=No accounting category are available for this country
+ExportNotSupported=The export format setuped is not supported into this page
+BookeppingLineAlreayExists=Lines already existing into bookeeping

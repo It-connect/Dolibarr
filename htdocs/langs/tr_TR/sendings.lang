@@ -1,0 +1,67 @@
+# Dolibarr language file - Source file is en_US - sendings
+RefSending=Sevkiyat ref.
+Sending=Sevkiyat
+Sendings=Sevkiyatlar
+AllSendings=Tüm sevkiyatlar
+Shipment=Sevkiyat
+Shipments=Sevkiyatlar
+ShowSending=Sevkiyatları göster
+Receivings=Teslimat Makbuzları
+SendingsArea=Sevkiyat alanı
+ListOfSendings=Sevkiyat listesi
+SendingMethod=Sevkiyat yöntemi
+LastSendings=Son %s sevkiyat
+StatisticsOfSendings=Sevkiyat istatistikleri
+NbOfSendings=Sevkiyat sayısı
+NumberOfShipmentsByMonth=Aylık sevkiyat sayısı
+SendingCard=Sevkiyat kartı
+NewSending=Yeni sevkiyat
+CreateASending=Bir sevkiyat oluştur
+QtyShipped=Sevkedilen mikt.
+QtyToShip=Sevk edilecek mikt.
+QtyReceived=Alınan mikt.
+KeepToShip=Gönderilmek için kalır
+OtherSendingsForSameOrder=Bu sipariş için diğer sevkiyatlar
+SendingsAndReceivingForSameOrder=Bu sipariş için sevkiyatlar ve alımlar
+SendingsToValidate=Doğrulanacak sevkiyatlar
+StatusSendingCanceled=İptal edildi
+StatusSendingDraft=Taslak
+StatusSendingValidated=Doğrulanmış (sevkedilecek ürünler veya halihazırda sevkedilmişler)
+StatusSendingProcessed=İşlenmiş
+StatusSendingDraftShort=Taslak
+StatusSendingValidatedShort=Doğrulanmış
+StatusSendingProcessedShort=İşlenmiş
+SendingSheet=Sevkiyat tablosu
+ConfirmDeleteSending=Bu sevkiyatı silmek istediğinizden emin misiniz?
+ConfirmValidateSending=<b>%s</b> referanslı bu sevkiyatı doğrulamak istediğinizden emin misiniz?
+ConfirmCancelSending=Bu sevkiyatı iptal etmek istediğinizden emin misiniz?
+DocumentModelSimple=Basit belge modeli
+DocumentModelMerou=Merou A5 modeli
+WarningNoQtyLeftToSend=Uyarı, sevkiyat için bekleyen herhangi bir ürün yok.
+StatsOnShipmentsOnlyValidated=İstatistikler yalnızca doğrulanmış sevkiyatlarda yapılmıştır. Kullanılan tarih sevkiyat doğrulama tarihidir (planlanan teslim tarihi her zaman bilinemez)
+DateDeliveryPlanned=Teslimat için planlanan tarih
+DateReceived=Teslim alınan tarih
+SendShippingByEMail=Sevkiyatı EPostayla gönder
+SendShippingRef=% Nakliyatının yapılması
+ActionsOnShipping=Sevkiyat etkinlikleri
+LinkToTrackYourPackage=Paketinizi izleyeceğiniz bağlantı
+ShipmentCreationIsDoneFromOrder=Şu an için, yeni bir sevkiyatın oluşturulması sipariş kartından yapılmıştır.
+ShipmentLine=Sevkiyat kalemi
+ProductQtyInCustomersOrdersRunning=Açık müşteri siparişlerindeki ürün miktarı
+ProductQtyInSuppliersOrdersRunning=Açık tedarikçi siparişlerindeki ürün miktarı
+ProductQtyInShipmentAlreadySent=Gönderilmiş olan ve açık durumdaki müşteri siparişindeki miktar
+ProductQtyInSuppliersShipmentAlreadyRecevied=Açık tedarikçi siparişlerindeki halihazırda teslim alınmış ürün miktarı
+NoProductToShipFoundIntoStock=Bu <b>%s</b> deposunda sevk edilecek hiç mal bulunamadı. Stoğu düzeltin ya da bir başka depo seçmek için geri gidin.
+WeightVolShort=Ağırlık/Hac.
+ValidateOrderFirstBeforeShipment=Sevkiyatları yapabilmek için önce siparişi doğrulamlısınız.
+
+# Sending methods
+# ModelDocument
+DocumentModelTyphon=Teslimat makbuzları için daha fazla eksiksiz doküman modeli (logo. ..)
+Error_EXPEDITION_ADDON_NUMBER_NotDefined=EXPEDITION_ADDON_NUMBER değişmezi tanımlanmamış
+SumOfProductVolumes=Ürün hacimleri toplamı
+SumOfProductWeights=Ürün ağırlıkları toplamı
+
+# warehouse details
+DetailWarehouseNumber= Depo ayrıntıları
+DetailWarehouseFormat= Ağ:%s (Mik : %d)

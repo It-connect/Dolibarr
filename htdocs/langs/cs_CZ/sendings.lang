@@ -1,0 +1,67 @@
+# Dolibarr language file - Source file is en_US - sendings
+RefSending=Ref. zásilka
+Sending=Náklad
+Sendings=Zásilky
+AllSendings=Všechny zásilky
+Shipment=Doprava
+Shipments=Zásilky
+ShowSending=Show Shipments
+Receivings=Delivery Receipts
+SendingsArea=Oblast zásilek
+ListOfSendings=Seznam zásilek
+SendingMethod=Způsob dopravy
+LastSendings=Latest %s shipments
+StatisticsOfSendings=Statistika zásilek
+NbOfSendings=Počet zásilek
+NumberOfShipmentsByMonth=Počet zásilek podle měsíce
+SendingCard=Karta zásilky
+NewSending=Nová zásilka
+CreateASending=Vytvořit zásilku
+QtyShipped=Množství odesláno
+QtyToShip=Množství na loď
+QtyReceived=Množství přijaté
+KeepToShip=Zůstaňte na loď
+OtherSendingsForSameOrder=Další zásilky pro tuto objednávku
+SendingsAndReceivingForSameOrder=Zásilky a vratky pro tuto objednávku
+SendingsToValidate=Zásilky se ověřují
+StatusSendingCanceled=Zrušený
+StatusSendingDraft=Návrh
+StatusSendingValidated=Ověřené (výrobky pro dodávku nebo již dodány)
+StatusSendingProcessed=Zpracované
+StatusSendingDraftShort=Návrh
+StatusSendingValidatedShort=Ověřené
+StatusSendingProcessedShort=Zpracované
+SendingSheet=Zásilkový list
+ConfirmDeleteSending=Jste si jisti, že chcete smazat tuto zásilku?
+ConfirmValidateSending=Jste si jisti, že chcete ověřit tuto zásilku s referenčním <b>%s?</b>
+ConfirmCancelSending=Jste si jisti, že chcete zrušit tuto zásilku?
+DocumentModelSimple=Jednoduchý vzor dokladu
+DocumentModelMerou=Merou A5 modelu
+WarningNoQtyLeftToSend=Varování: žádné zboží nečeká na dopravu
+StatsOnShipmentsOnlyValidated=Statistiky vedené pouze na ověřené zásilky. Datum použití je datum schválení zásilky (plánované datum dodání není vždy známo).
+DateDeliveryPlanned=Plánovaný termín dodání
+DateReceived=Datum doručení
+SendShippingByEMail=Poslat zásilku mailem
+SendShippingRef=Podání zásilky %s
+ActionsOnShipping=Události zásilky
+LinkToTrackYourPackage=Odkaz pro sledování balíku
+ShipmentCreationIsDoneFromOrder=Pro tuto chvíli, je vytvoření nové zásilky provedeno z objednávkové  karty.
+ShipmentLine=Řádek zásilky
+ProductQtyInCustomersOrdersRunning=Množství výrobku do otevřených objednávek zákazníků
+ProductQtyInSuppliersOrdersRunning=Množství výrobku do otevřených dodavatelů zakázek
+ProductQtyInShipmentAlreadySent=Množství již odeslaných produktů z objednávek zákazníka
+ProductQtyInSuppliersShipmentAlreadyRecevied=Množství již dodaných produktů z otevřených dodavatelských objednávek
+NoProductToShipFoundIntoStock=No product to ship found into warehouse <b>%s</b>. Correct stock or go back to choose another warehouse.
+WeightVolShort=Weight/Vol.
+ValidateOrderFirstBeforeShipment=You must first validate the order before being able to make shipments.
+
+# Sending methods
+# ModelDocument
+DocumentModelTyphon=Více kompletních modelů dokumentů pro potvrzení o doručení (logo. ..)
+Error_EXPEDITION_ADDON_NUMBER_NotDefined=Konstanta EXPEDITION_ADDON_NUMBER není definována
+SumOfProductVolumes=Součet objemu produktů
+SumOfProductWeights=Součet hmotnosti produktů
+
+# warehouse details
+DetailWarehouseNumber= Detaily skladu
+DetailWarehouseFormat= W:%s (Množství : %d)

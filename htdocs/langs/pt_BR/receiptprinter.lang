@@ -1,0 +1,15 @@
+# Dolibarr language file - Source file is en_US - receiptprinter
+PrinterAdded=Impressora %s adicionada
+PrinterUpdated=Impressora %s atualizada
+PrinterDeleted=Impressora %s excluída
+TestSentToPrinter=Teste enviado para impressora %s
+CONNECTOR_NETWORK_PRINT=Impressora de rede
+CONNECTOR_FILE_PRINT=Impressora local
+CONNECTOR_WINDOWS_PRINT=Impressora local do Windows
+DOL_ALIGN_CENTER=Texto centralizado
+DOL_ALIGN_RIGHT=Texto alinhar à direita
+DOL_PRINT_BARCODE=Impressão de código de barras
+DOL_PRINT_BARCODE_CUSTOMER_ID=Impressão de código de barras ID de cliente
+DOL_OPEN_DRAWER=Caixa aberta
+DOL_ACTIVATE_BUZZER=Ative buzzer
+DOL_PRINT_QRCODE=Imprimir QR Code

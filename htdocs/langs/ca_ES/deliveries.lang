@@ -1,0 +1,30 @@
+# Dolibarr language file - Source file is en_US - deliveries
+Delivery=Enviament
+DeliveryRef=Ref. d'enviament
+DeliveryCard=Fitxa recepció
+DeliveryOrder=Nota de recepció
+DeliveryDate=Data de lliurament
+CreateDeliveryOrder=Generar nota de recepció
+DeliveryStateSaved=Estat d'enviament desat
+SetDeliveryDate=Indica la data de lliurament
+ValidateDeliveryReceipt=Validar el rebut de lliurament
+ValidateDeliveryReceiptConfirm=Estàs segur de voler validar aquest rebut de lliurament?
+DeleteDeliveryReceipt=Eliminar el rebut de lliurament
+DeleteDeliveryReceiptConfirm=Esteu segur de voler eliminar aquesta nota de lliurament?
+DeliveryMethod=Mètode d'enviament
+TrackingNumber=Nº de tracking
+DeliveryNotValidated=Nota de recepció no validada
+StatusDeliveryCanceled=Cancel·lat
+StatusDeliveryDraft=Esborrany
+StatusDeliveryValidated=Rebut
+# merou PDF model
+NameAndSignature=Nom i signatura:
+ToAndDate=En___________________________________ a ____/_____/__________
+GoodStatusDeclaration=He rebut la mercaderia en bon estat,
+Deliverer=Destinatari :
+Sender=Origen
+Recipient=Destinatari
+ErrorStockIsNotEnough=No hi han suficient stock
+Shippable=Enviable
+NonShippable=No enviable
+ShowReceiving=Mostra la confirmació d'entrega
